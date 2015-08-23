@@ -26,7 +26,7 @@ Adafruit_ILI9340 tft = Adafruit_ILI9340(_cs, _dc, _mosi, _sclk, _rst, _miso);
 //Adafruit_ILI9340 tft = Adafruit_ILI9340(_cs, _dc, _rst);
 
 iShield myiShield;
-int buttonPin = 1;
+
 bool flag = false;
 bool flag2 = false;
 
